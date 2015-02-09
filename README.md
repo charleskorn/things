@@ -6,7 +6,7 @@ Not all of these are finished, perfect designs, so you might need to tweak them 
 ## How to use
 Each thing has a directory containing:
 * the [OpenSCAD](http://www.openscad.org/) source file, suitable for editing
-* an exported STL file, suitable for using with 3D printing software
+* an exported STL file, suitable for use with 3D printing software
 
 ## OpenSCAD resources
 Some pages I find useful:
