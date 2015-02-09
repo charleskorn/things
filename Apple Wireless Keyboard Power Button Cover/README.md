@@ -1,0 +1,1 @@
+A cover for the [Apple Wireless Keyboard](http://www.apple.com/keyboard/)'s power button, to help prevent your keyboard turning on accidentally while in a bag, backpack etc. 
