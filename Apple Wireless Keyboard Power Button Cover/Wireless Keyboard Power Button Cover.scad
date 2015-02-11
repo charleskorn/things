@@ -1,4 +1,4 @@
-INNER_DIAMETER = 18.5;
+INNER_DIAMETER = 18.2;
 WALL_THICKNESS = 2;
 OUTER_DIAMETER = INNER_DIAMETER + 2 * WALL_THICKNESS;
 HEIGHT = 20;
@@ -11,7 +11,7 @@ translate([0, 0, -WALL_THICKNESS]) {
 }
 
 rounded_arc(90);
-rotate([0, 0, 180]) rounded_arc(60);
+rotate([0, 0, -170]) rounded_arc(140);
 
 module rounded_arc(angular_size) {
     intersection() {
